@@ -47,9 +47,9 @@ ol, ul {
   margin: 0;
   overflow: hidden;
   padding: 0;
-  width: 100vw
+  width: 100vw;
   background: #141414;
-  color: #e8e8e8;
+  color: #e8e8e8
 }
 
 html {
